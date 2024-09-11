@@ -1,7 +1,7 @@
 {
   "name": "introduction-to-jsx",
   "version": "1.0.0",
-  "description": "",
+  "description": "Created with CodeSandbox",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -23,5 +23,7 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "author": "",
+  "license": "ISC"
 }
