@@ -1,0 +1,16 @@
+.heading {
+  color: brown;
+}
+ul {
+  color: slateblue;
+}
+.pyramid-img {
+  height: 100px;
+  width: 100px;
+}
+
+.h1Style {
+  font-size: 50px;
+  font-weight: bold;
+  border-bottom: 5px solid black;
+}
